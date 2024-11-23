@@ -71,7 +71,7 @@ main {
   & .indented-heading {
     inline-size: fit-content;
     margin-block: 0;
-    margin-inline-start: calc(-1 * var(--spacing-4) - var(--spacing-1));
+    margin-inline-start: calc(-1 * var(--spacing-4));
     padding: var(--spacing-2) var(--spacing-5);
     background-color: var(--color-secondary-light);
     border-bottom: 6px solid var(--color-secondary-dark);
